@@ -1,2 +1,2 @@
-# Practicum
+# Yandex.Practic
 Yandex.Practicum
